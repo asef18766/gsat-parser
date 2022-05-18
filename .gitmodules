@@ -1,0 +1,3 @@
+[submodule "gsat"]
+	path = gsat
+	url = git@github.com:Sea-n/gsat.git
